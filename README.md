@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter project**
 
-- 🌱 I’m currently learning **dart,flutter**
+- 🌱 I’m currently learning **dart and flutter**
 
 - 💬 Ask me about **Backend**
 
