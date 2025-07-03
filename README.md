@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/muhammednawafmv" target="blank"><img src="https://img.shields.io/twitter/follow/muhammednawafmv?logo=twitter&style=for-the-badge" alt="muhammednawafmv" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter project**
+- 🔭 I’m currently working on **Kotlin project**
 
-- 🌱 I’m currently learning **dart,flutter**
+- 🌱 I’m currently learning **Kotlin,Retrofit**
 
 - 💬 Ask me about **Backend**
 
